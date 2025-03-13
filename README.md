@@ -8,6 +8,7 @@
 - Retrieved data from [FDA-Orphan drug database(https://www.accessdata.fda.gov/scripts/opdlisting/oopd/)
 
 
-data file type : CSV
+data file type : xla
 
-#Inspecting data for to difene data types and variable"
+#Inspecting data for to diffrent data types and variable"
+
